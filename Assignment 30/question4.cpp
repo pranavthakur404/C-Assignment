@@ -1,0 +1,1 @@
+// Define a function to print Pascal triangle up to n lines
