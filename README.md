@@ -1,2 +1,2 @@
-# C---Assignment
+# C++ Assignment
  C++ practice questions
